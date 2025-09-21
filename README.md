@@ -7,5 +7,5 @@ Modified Egguware + Bad Bypass Battleye
 
 2. EgguWareV1.assets -- Add these assets to C:\Windows\Tasks for the cheat to work)
 
-3. ![image]([https://https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_107.png](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_107.png)))
-4. ![image]([https://https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_108.png))
+![image](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_107.png)
+![image](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_108.png)
