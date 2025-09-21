@@ -13,3 +13,12 @@ Modified Egguware + Bad Bypass Battleye
 ## Game
 
 ![image](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_110.png))
+
+## Fix Ban
+
+If you get banned by Vac, you can upload a DLL up to 11GB, then Battleye will skip your DLL and you won't be banned. But my friend doesn't get banned without that.
+
+## Sample code to load a DLL
+
+
+![image](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_110.png))
