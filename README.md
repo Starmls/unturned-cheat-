@@ -25,6 +25,8 @@ If you get banned by Vac, you can upload a DLL up to 11GB, then Battleye will sk
 
 ## 2 menu color versions Green or Purple
 
+To install the green version, rename EgguWare V1(green version).assets to EgguWareV1.assets
+
 ![image](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_116.png))
 ![image](https://github.com/Starmls/unturned-cheat-/blob/main/Screenshot_117.png))
 
